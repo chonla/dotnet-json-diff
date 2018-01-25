@@ -2,6 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>Chonla.JsonDiff</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Author>Chonlasith Jucksriporn</Author>
+    <Description>Find differences in 2 Json Strings/Objects.</Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageReleaseNote>First Release</PackageReleaseNote>
+    <Copyright>Copyright 2018 (c) Chonlasith Jucksriporn</Copyright>
+    <PackageTags>json difference</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
